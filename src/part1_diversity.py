@@ -5,6 +5,7 @@ Students complete SC, MRC and a BER simulation over independent Rayleigh
 flat fading branches.
 """
 
+
 import numpy as np
 
 from utils import (
